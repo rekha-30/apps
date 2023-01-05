@@ -37,9 +37,9 @@
 						<uri>https://anypoint.mulesoft.com</uri>
 						<muleVersion>4.4.0</muleVersion>
 						
-						<username>rekhakotu30@gmail.com</username>
+						<username>rekha-kotu</username>
       					<password>Rekha@7013819532</password>
-						<applicationName>ConnectedApp1</applicationName>
+						<applicationName>JenApp1</applicationName>
 						<environment>Sandbox</environment>
 						<region>us-east-2</region>
 						<workers>1</workers>
